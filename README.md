@@ -8,3 +8,5 @@ a git access for testing
 ------>6.change on master by client.
 2 day======on master by client.
 2 day======on master by github.
+------>>>>>>>>>>>>>>6.this is the branch, 2 time to be changed by github.
+2 day======>11:this changed by client at 1 time. 
